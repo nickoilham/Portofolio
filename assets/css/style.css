@@ -493,6 +493,9 @@ section {
 .resume .resume-item ul li {
   padding-bottom: 10px;
 }
+.resume .resume-item-assosiate {
+  color: #08C7B1;
+}
 .resume .resume-item:last-child {
   padding-bottom: 0;
 }
@@ -1135,13 +1138,13 @@ section {
   border-radius:0 5px 5px 0
 }
 
-/*Facebook*/
-.btn-facebook:hover > i,.btn-facebook:focus > i {
-  color:#3b5998
+/*Gmail*/
+.btn-gmail:hover > i,.btn-gmail:focus > i {
+  color:#FF0000
 }
 
-.btn-facebook > span {
-  background:#3b5998
+.btn-gmail > span {
+  background:#FF0000
 }
 
 /*Instagram*/
